@@ -49,7 +49,7 @@ const RegLogPage = () => {
                         <button className="btn" type="submit">Login</button>
                     </div>
                     <div className="regi-link animation">
-                        <p>Don't have an account? <a href='#' className='SignUpLink'>Sign Up</a></p>
+                        <p className="link-to-reg">Don't have an account? <a href='#' className='SignUpLink'>Sign Up</a></p>
                     </div>
                 </form>
             </div>
@@ -76,7 +76,7 @@ const RegLogPage = () => {
                         <button className="btn_register" type="submit">Register</button>
                     </div>
                     <div className="regi-link animation">
-                        <p>Already have an account? <a href='#' className='SignInLink'>Sign In</a></p>
+                        <p className="link-to-log">Already have an account? <a href='#' className='SignInLink'>Sign In</a></p>
                     </div>
                 </form>
             </div>
