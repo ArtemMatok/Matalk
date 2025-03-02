@@ -1,0 +1,13 @@
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\Response\bin\Debug\net8.0\Response.deps.json
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\Response\bin\Debug\net8.0\Response.dll
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\Response\bin\Debug\net8.0\Response.pdb
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\Response\obj\Debug\net8.0\Response.csproj.AssemblyReference.cache
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\Response\obj\Debug\net8.0\Response.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\Response\obj\Debug\net8.0\Response.AssemblyInfoInputs.cache
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\Response\obj\Debug\net8.0\Response.AssemblyInfo.cs
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\Response\obj\Debug\net8.0\Response.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\Response\obj\Debug\net8.0\Response.sourcelink.json
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\Response\obj\Debug\net8.0\Response.dll
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\Response\obj\Debug\net8.0\refint\Response.dll
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\Response\obj\Debug\net8.0\Response.pdb
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\Response\obj\Debug\net8.0\ref\Response.dll

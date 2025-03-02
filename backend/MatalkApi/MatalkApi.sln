@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatalkWebApi", "MatalkWebApi\MatalkWebApi.csproj", "{E4C5BF7F-AEC8-4543-BB59-FFA08A22B709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatalkWebApi.Application", "MatalkWebApi.Application\MatalkWebApi.Application.csproj", "{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatalkWebApi.Domain", "MatalkWebApi.Domain\MatalkWebApi.Domain.csproj", "{68D35B48-FCA0-41E4-84C4-6C034E1CCC80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatalkWebApi.Infrastructure", "MatalkWebApi.Infrastructure\MatalkWebApi.Infrastructure.csproj", "{E457DEFA-34E0-44E7-96DB-84F4A6937A57}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Monolith", "Monolith", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{F82E7B6A-3435-4EC3-836D-E846C1DAF1C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Response", "Response\Response.csproj", "{689027CA-91C9-4770-A396-8BD5D760AFC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4C5BF7F-AEC8-4543-BB59-FFA08A22B709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C5BF7F-AEC8-4543-BB59-FFA08A22B709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C5BF7F-AEC8-4543-BB59-FFA08A22B709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C5BF7F-AEC8-4543-BB59-FFA08A22B709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D35B48-FCA0-41E4-84C4-6C034E1CCC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D35B48-FCA0-41E4-84C4-6C034E1CCC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D35B48-FCA0-41E4-84C4-6C034E1CCC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D35B48-FCA0-41E4-84C4-6C034E1CCC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E457DEFA-34E0-44E7-96DB-84F4A6937A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E457DEFA-34E0-44E7-96DB-84F4A6937A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E457DEFA-34E0-44E7-96DB-84F4A6937A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E457DEFA-34E0-44E7-96DB-84F4A6937A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689027CA-91C9-4770-A396-8BD5D760AFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689027CA-91C9-4770-A396-8BD5D760AFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689027CA-91C9-4770-A396-8BD5D760AFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689027CA-91C9-4770-A396-8BD5D760AFC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E4C5BF7F-AEC8-4543-BB59-FFA08A22B709} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{68D35B48-FCA0-41E4-84C4-6C034E1CCC80} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{E457DEFA-34E0-44E7-96DB-84F4A6937A57} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{689027CA-91C9-4770-A396-8BD5D760AFC6} = {F82E7B6A-3435-4EC3-836D-E846C1DAF1C3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8DF20E9-9023-4B73-827E-738A5554B99E}
+	EndGlobalSection
+EndGlobal

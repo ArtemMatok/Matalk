@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SHepgQCw+N7Fi1C4AKwEcHMrL1KCUSiwSgI1NITgplg=",
+  "Source": "MatalkWebApi",
+  "BasePath": "_content/MatalkWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

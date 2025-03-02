@@ -1,0 +1,13 @@
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi.Domain\bin\Debug\net8.0\MatalkWebApi.Domain.deps.json
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi.Domain\bin\Debug\net8.0\MatalkWebApi.Domain.dll
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi.Domain\bin\Debug\net8.0\MatalkWebApi.Domain.pdb
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi.Domain\obj\Debug\net8.0\MatalkWebApi.Domain.csproj.AssemblyReference.cache
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi.Domain\obj\Debug\net8.0\MatalkWebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi.Domain\obj\Debug\net8.0\MatalkWebApi.Domain.AssemblyInfoInputs.cache
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi.Domain\obj\Debug\net8.0\MatalkWebApi.Domain.AssemblyInfo.cs
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi.Domain\obj\Debug\net8.0\MatalkWebApi.Domain.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi.Domain\obj\Debug\net8.0\MatalkWebApi.Domain.sourcelink.json
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi.Domain\obj\Debug\net8.0\MatalkWebApi.Domain.dll
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi.Domain\obj\Debug\net8.0\refint\MatalkWebApi.Domain.dll
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi.Domain\obj\Debug\net8.0\MatalkWebApi.Domain.pdb
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi.Domain\obj\Debug\net8.0\ref\MatalkWebApi.Domain.dll
