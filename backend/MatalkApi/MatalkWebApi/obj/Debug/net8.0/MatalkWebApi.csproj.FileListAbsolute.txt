@@ -170,3 +170,5 @@ D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebAp
 D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
 D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
 D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi\bin\Debug\net8.0\Npgsql.dll
+D:\Users\Administrator\Documents\ourProject\Matalk\backend\MatalkApi\MatalkWebApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

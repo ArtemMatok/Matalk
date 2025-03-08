@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E457DEFA-34E0-44E7-96DB-84F4A6937A57}|MatalkWebApi.Infrastructure\\MatalkWebApi.Infrastructure.csproj|d:\\users\\administrator\\documents\\ourproject\\matalk\\backend\\matalkapi\\matalkwebapi.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E457DEFA-34E0-44E7-96DB-84F4A6937A57}|MatalkWebApi.Infrastructure\\MatalkWebApi.Infrastructure.csproj|solutionrelative:matalkwebapi.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E457DEFA-34E0-44E7-96DB-84F4A6937A57}|MatalkWebApi.Infrastructure\\MatalkWebApi.Infrastructure.csproj|d:\\users\\administrator\\documents\\ourproject\\matalk\\backend\\matalkapi\\matalkwebapi.infrastructure\\migrations\\20250308144358_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E457DEFA-34E0-44E7-96DB-84F4A6937A57}|MatalkWebApi.Infrastructure\\MatalkWebApi.Infrastructure.csproj|solutionrelative:matalkwebapi.infrastructure\\migrations\\20250308144358_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E457DEFA-34E0-44E7-96DB-84F4A6937A57}|MatalkWebApi.Infrastructure\\MatalkWebApi.Infrastructure.csproj|d:\\users\\administrator\\documents\\ourproject\\matalk\\backend\\matalkapi\\matalkwebapi.infrastructure\\migrations\\20250308144358_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E457DEFA-34E0-44E7-96DB-84F4A6937A57}|MatalkWebApi.Infrastructure\\MatalkWebApi.Infrastructure.csproj|solutionrelative:matalkwebapi.infrastructure\\migrations\\20250308144358_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C5BF7F-AEC8-4543-BB59-FFA08A22B709}|MatalkWebApi\\MatalkWebApi.csproj|d:\\users\\administrator\\documents\\ourproject\\matalk\\backend\\matalkapi\\matalkwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C5BF7F-AEC8-4543-BB59-FFA08A22B709}|MatalkWebApi\\MatalkWebApi.csproj|solutionrelative:matalkwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C5BF7F-AEC8-4543-BB59-FFA08A22B709}|MatalkWebApi\\MatalkWebApi.csproj|d:\\users\\administrator\\documents\\ourproject\\matalk\\backend\\matalkapi\\matalkwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4C5BF7F-AEC8-4543-BB59-FFA08A22B709}|MatalkWebApi\\MatalkWebApi.csproj|solutionrelative:matalkwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B}|MatalkWebApi.Application\\MatalkWebApi.Application.csproj|d:\\users\\administrator\\documents\\ourproject\\matalk\\backend\\matalkapi\\matalkwebapi.application\\user\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B}|MatalkWebApi.Application\\MatalkWebApi.Application.csproj|solutionrelative:matalkwebapi.application\\user\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B}|MatalkWebApi.Application\\MatalkWebApi.Application.csproj|d:\\users\\administrator\\documents\\ourproject\\matalk\\backend\\matalkapi\\matalkwebapi.application\\user\\decorators\\usermanagerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B}|MatalkWebApi.Application\\MatalkWebApi.Application.csproj|solutionrelative:matalkwebapi.application\\user\\decorators\\usermanagerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Infrastructure\\Migrations\\20250301155016_ChangeDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MatalkWebApi.Infrastructure\\Migrations\\20250301155016_ChangeDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E457DEFA-34E0-44E7-96DB-84F4A6937A57}|MatalkWebApi.Infrastructure\\MatalkWebApi.Infrastructure.csproj|d:\\users\\administrator\\documents\\ourproject\\matalk\\backend\\matalkapi\\matalkwebapi.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +43,12 @@
       "RelativeMoniker": "D:0:0:{68D35B48-FCA0-41E4-84C4-6C034E1CCC80}|MatalkWebApi.Domain\\MatalkWebApi.Domain.csproj|solutionrelative:matalkwebapi.domain\\constants\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C5BF7F-AEC8-4543-BB59-FFA08A22B709}|MatalkWebApi\\MatalkWebApi.csproj|d:\\users\\administrator\\documents\\ourproject\\matalk\\backend\\matalkapi\\matalkwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C5BF7F-AEC8-4543-BB59-FFA08A22B709}|MatalkWebApi\\MatalkWebApi.csproj|solutionrelative:matalkwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B}|MatalkWebApi.Application\\MatalkWebApi.Application.csproj|d:\\users\\administrator\\documents\\ourproject\\matalk\\backend\\matalkapi\\matalkwebapi.application\\user\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B}|MatalkWebApi.Application\\MatalkWebApi.Application.csproj|solutionrelative:matalkwebapi.application\\user\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B}|MatalkWebApi.Application\\MatalkWebApi.Application.csproj|d:\\users\\administrator\\documents\\ourproject\\matalk\\backend\\matalkapi\\matalkwebapi.application\\user\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B}|MatalkWebApi.Application\\MatalkWebApi.Application.csproj|solutionrelative:matalkwebapi.application\\user\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C5BF7F-AEC8-4543-BB59-FFA08A22B709}|MatalkWebApi\\MatalkWebApi.csproj|d:\\users\\administrator\\documents\\ourproject\\matalk\\backend\\matalkapi\\matalkwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E4C5BF7F-AEC8-4543-BB59-FFA08A22B709}|MatalkWebApi\\MatalkWebApi.csproj|solutionrelative:matalkwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4C5BF7F-AEC8-4543-BB59-FFA08A22B709}|MatalkWebApi\\MatalkWebApi.csproj|d:\\users\\administrator\\documents\\ourproject\\matalk\\backend\\matalkapi\\matalkwebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B}|MatalkWebApi.Application\\MatalkWebApi.Application.csproj|d:\\users\\administrator\\documents\\ourproject\\matalk\\backend\\matalkapi\\matalkwebapi.application\\user\\decorators\\iusermanagerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B38C2F74-AEE7-4070-9E2A-BD3E25C7AE9B}|MatalkWebApi.Application\\MatalkWebApi.Application.csproj|solutionrelative:matalkwebapi.application\\user\\decorators\\iusermanagerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E457DEFA-34E0-44E7-96DB-84F4A6937A57}|MatalkWebApi.Infrastructure\\MatalkWebApi.Infrastructure.csproj|d:\\users\\administrator\\documents\\ourproject\\matalk\\backend\\matalkapi\\matalkwebapi.infrastructure\\migrations\\20250301150516_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E457DEFA-34E0-44E7-96DB-84F4A6937A57}|MatalkWebApi.Infrastructure\\MatalkWebApi.Infrastructure.csproj|solutionrelative:matalkwebapi.infrastructure\\migrations\\20250301150516_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,33 +150,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MatalkWebApi.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MatalkWebApi.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:46:01.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250308144358_InitialCreate.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Infrastructure\\Migrations\\20250308144358_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "MatalkWebApi.Infrastructure\\Migrations\\20250308144358_InitialCreate.Designer.cs",
+              "ToolTip": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Infrastructure\\Migrations\\20250308144358_InitialCreate.Designer.cs",
+              "RelativeToolTip": "MatalkWebApi.Infrastructure\\Migrations\\20250308144358_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:45:59.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20250301155016_ChangeDbContext.cs",
-              "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Infrastructure\\Migrations\\20250301155016_ChangeDbContext.cs",
-              "RelativeDocumentMoniker": "MatalkWebApi.Infrastructure\\Migrations\\20250301155016_ChangeDbContext.cs",
-              "ToolTip": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Infrastructure\\Migrations\\20250301155016_ChangeDbContext.cs",
-              "RelativeToolTip": "MatalkWebApi.Infrastructure\\Migrations\\20250301155016_ChangeDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "20250308144358_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Infrastructure\\Migrations\\20250308144358_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MatalkWebApi.Infrastructure\\Migrations\\20250308144358_InitialCreate.cs",
+              "ToolTip": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Infrastructure\\Migrations\\20250308144358_InitialCreate.cs",
+              "RelativeToolTip": "MatalkWebApi.Infrastructure\\Migrations\\20250308144358_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T15:50:16.482Z",
+              "WhenOpened": "2025-03-08T14:43:59.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRoles.cs",
-              "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Domain\\Constants\\UserRoles.cs",
-              "RelativeDocumentMoniker": "MatalkWebApi.Domain\\Constants\\UserRoles.cs",
-              "ToolTip": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Domain\\Constants\\UserRoles.cs",
-              "RelativeToolTip": "MatalkWebApi.Domain\\Constants\\UserRoles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T15:48:41.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\Configuration\\JwtSettings.cs",
               "RelativeDocumentMoniker": "MatalkWebApi.Application\\User\\Configuration\\JwtSettings.cs",
@@ -185,33 +202,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi\\Program.cs",
               "RelativeDocumentMoniker": "MatalkWebApi\\Program.cs",
               "ToolTip": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi\\Program.cs",
               "RelativeToolTip": "MatalkWebApi\\Program.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAQwFgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwDQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T14:07:05.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi\\appsettings.json",
               "RelativeDocumentMoniker": "MatalkWebApi\\appsettings.json",
               "ToolTip": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi\\appsettings.json",
               "RelativeToolTip": "MatalkWebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-01T15:04:06.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "MatalkWebApi.Application\\User\\Services\\AuthenticationService.cs",
+              "ToolTip": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "MatalkWebApi.Application\\User\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:13:01.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Domain\\Constants\\UserRoles.cs",
+              "RelativeDocumentMoniker": "MatalkWebApi.Domain\\Constants\\UserRoles.cs",
+              "ToolTip": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Domain\\Constants\\UserRoles.cs",
+              "RelativeToolTip": "MatalkWebApi.Domain\\Constants\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T15:48:41.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UserManagerDecorator.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\Decorators\\UserManagerDecorator.cs",
               "RelativeDocumentMoniker": "MatalkWebApi.Application\\User\\Decorators\\UserManagerDecorator.cs",
@@ -224,20 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\Services\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "MatalkWebApi.Application\\User\\Services\\AuthenticationService.cs",
-              "ToolTip": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\Services\\AuthenticationService.cs",
-              "RelativeToolTip": "MatalkWebApi.Application\\User\\Services\\AuthenticationService.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T15:13:01.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MatalkWebApi.Infrastructure\\Data\\ApplicationDbContext.cs",
@@ -250,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "RoleConfiguration.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Infrastructure\\Configuration\\RoleConfiguration.cs",
               "RelativeDocumentMoniker": "MatalkWebApi.Infrastructure\\Configuration\\RoleConfiguration.cs",
@@ -263,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "TokenService.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "MatalkWebApi.Application\\User\\Services\\TokenService.cs",
@@ -276,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "LoginDtoValidator.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\Validator\\LoginDtoValidator.cs",
               "RelativeDocumentMoniker": "MatalkWebApi.Application\\User\\Validator\\LoginDtoValidator.cs",
@@ -289,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IAuthenticationService.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\Interfaces\\IAuthenticationService.cs",
               "RelativeDocumentMoniker": "MatalkWebApi.Application\\User\\Interfaces\\IAuthenticationService.cs",
@@ -302,20 +332,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "RegisterDtoValidator.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\Validator\\RegisterDtoValidator.cs",
               "RelativeDocumentMoniker": "MatalkWebApi.Application\\User\\Validator\\RegisterDtoValidator.cs",
               "ToolTip": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\Validator\\RegisterDtoValidator.cs",
               "RelativeToolTip": "MatalkWebApi.Application\\User\\Validator\\RegisterDtoValidator.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwCQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T15:24:54.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "MatalkWebApi\\Controllers\\AccountController.cs",
@@ -328,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "SignInManagerDecorator.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\Decorators\\SignInManagerDecorator.cs",
               "RelativeDocumentMoniker": "MatalkWebApi.Application\\User\\Decorators\\SignInManagerDecorator.cs",
@@ -341,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ISignInManagerDecorator.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\Decorators\\ISignInManagerDecorator.cs",
               "RelativeDocumentMoniker": "MatalkWebApi.Application\\User\\Decorators\\ISignInManagerDecorator.cs",
@@ -354,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Result.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\Response\\Result.cs",
               "RelativeDocumentMoniker": "Response\\Result.cs",
@@ -367,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Domain\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "MatalkWebApi.Domain\\Entities\\AppUser.cs",
@@ -380,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "PageResultResponse.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\Response\\PageResultResponse.cs",
               "RelativeDocumentMoniker": "Response\\PageResultResponse.cs",
@@ -393,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\Response\\ApiResponse.cs",
               "RelativeDocumentMoniker": "Response\\ApiResponse.cs",
@@ -406,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "MatalkWebApi.Application\\User\\DTOs\\RegisterDto.cs",
@@ -419,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "NewUserDto.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\DTOs\\NewUserDto.cs",
               "RelativeDocumentMoniker": "MatalkWebApi.Application\\User\\DTOs\\NewUserDto.cs",
@@ -432,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "MatalkWebApi.Application\\User\\DTOs\\LoginDto.cs",
@@ -445,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "IUserManagerDecorator.cs",
               "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Application\\User\\Decorators\\IUserManagerDecorator.cs",
               "RelativeDocumentMoniker": "MatalkWebApi.Application\\User\\Decorators\\IUserManagerDecorator.cs",
@@ -454,19 +484,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T15:07:05.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20250301150516_InitialCreate.cs",
-              "DocumentMoniker": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Infrastructure\\Migrations\\20250301150516_InitialCreate.cs",
-              "RelativeDocumentMoniker": "MatalkWebApi.Infrastructure\\Migrations\\20250301150516_InitialCreate.cs",
-              "ToolTip": "D:\\Users\\Administrator\\Documents\\ourProject\\Matalk\\backend\\MatalkApi\\MatalkWebApi.Infrastructure\\Migrations\\20250301150516_InitialCreate.cs",
-              "RelativeToolTip": "MatalkWebApi.Infrastructure\\Migrations\\20250301150516_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T15:05:16.706Z",
               "EditorCaption": ""
             }
           ]

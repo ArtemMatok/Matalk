@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatalkWebApi.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a38be3ff8e2fb0867ac0162c4374933de32623b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e0331c3b1bcf5dec672c7f1ffdc4d42cd2bbe4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatalkWebApi.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatalkWebApi.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
